@@ -1,0 +1,24 @@
+body{
+   background-color: rgb(38, 26, 26); 
+   border:20px solid  rgb(221, 204, 204); 
+   box-sizing :border-box;
+   height: 100vh;
+   width: 100vw;
+   
+  
+
+}
+
+.snake{
+    position: relative;
+    background-color: black;
+    height: 40px;   /* Updated height from 40px to 100px */
+    width: 40px;    /* Updated width from 40px to 100px */
+}
+
+.points{
+     position: relative;
+    background-color: rgb(219, 164, 118);
+    height: 40px;
+    width: 40px;
+}
